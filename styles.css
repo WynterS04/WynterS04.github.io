@@ -33,10 +33,10 @@ a {
 .assign img {
     width: 200px;
     margin: 10px;
-    border: 2px solid mediumblue;
+    border: 2px solid #CB7FEB;
 }
 .assign img:hover{
     width: 200px;
     margin: 10px;
-    border: 2px dotted lightskyblue;
+    border: 2px dotted mediumblue;
 }
